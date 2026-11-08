@@ -1,11 +1,11 @@
 {
-  "version": "0.1.1",
-  "notes": "- Clean up shows photos and videos larger, with the file name under each one.\n- Deleting in a preview keeps your place: a set stays open with the rest of its photos.\n- Videos in Clean up now work the same way as Photos, and similar videos are marked.\n- Pro features are clearly marked, with clearer notices about your plan.\n- Free up space asks you to choose what to remove before anything is selected.\n- The selection bar and close buttons have a cleaner look.",
-  "pub_date": "2026-11-08T20:27:40Z",
+  "version": "0.1.2",
+  "notes": "- Secure license keys no longer need an environment label. Existing keys still work.\n- The price stays $7 per month, with local currency and payment methods handled at checkout.",
+  "pub_date": "2026-11-08T22:25:58Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTRGxnYlN5VXlBM3RjZVZ3UXpkd2poblZJMXF3bkNEakdOb1grTm44UG5naHBkTDRjYmxmZnpyK1VhdS9HK1N6VXlheEJaL0djYzI4NDljUzZqTEpKUTJmZmYzamRFTndVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTY5NjMxCWZpbGU6SW1hZ2UgTWFuYWdlci5hcHAudGFyLmd6CXZlcnNpb246MC4xLjEKSlUybVFneFBSTDVDZUpIV1hpQ3hlUGhpZUZNSmg3S3NXWFBiMlpvRGJKRXQ5cDdYWkhHeWNrbS9UMUF0NE4rRVlIMHZlazB0OGYyTlFlR2RldTNNREE9PQo=",
-      "url": "https://github.com/edisonaugusthy/MacUtilityKit-Releases/releases/download/image-manager-v0.1.1/Image-Manager_0.1.1_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTRGxnYlN5VXlBM3VtZ1R2MjlyWTY1eDFON2hvSDVuQkoxZGlYa0hpbXo5OUNqaXltWU9XNk9ncURQcnFCcFo2V1Q2UWlDNEt4dFA3aGhYUmtpci9OdG5KMnQwYnk2QndvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTc2NzMzCWZpbGU6SW1hZ2UgTWFuYWdlci5hcHAudGFyLmd6CXZlcnNpb246MC4xLjIKTDhTUGxEQ1ozQmVibEZoL2tnVUpoUEVlcEh4bGJrS1p3ZUFjOENScTh4SGFIMFZnVVNjZ0ZtMUhjWWRUN0hwaEVUaU8yMzFzak9NdkJzUEFZRzFKQnc9PQo=",
+      "url": "https://github.com/edisonaugusthy/MacUtilityKit-Releases/releases/download/image-manager-v0.1.2/Image-Manager_0.1.2_aarch64.app.tar.gz"
     }
   }
 }
