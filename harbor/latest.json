@@ -1,0 +1,11 @@
+{
+  "version": "0.8.0",
+  "notes": "- Harbor Pro: activate a key and every feature turns on straight away, even in an open session.\n- Overview has a chart suited to each metric, with a disk ring that warns when it's filling up.\n- Insights groups similar errors and opens the full message and call stack right there.\n- Logs can scroll back through older lines from your server.\n- Open logs from Insights goes to the moment the error happened.\n- Share a log line straight to Slack, or copy it when Slack isn't connected.\n- The MCP page is easier to use, and its prompts can be copied.\n- Search fields have a clear button.\n- Harbor now updates itself.",
+  "pub_date": "2026-11-08T21:53:19Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUOTNlRXEwRUFKc3lmTVJJK0ZRSTFibXZ3Z2gySXFHZWx6aDZmOFVubTJMMlhHbzNxbjEzU0pCa3RuKytiK3RkQXpISHN0aUE2UnZjMXZuQUFOMW9VK0xZR0NmTXl3TmdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTc0NzczCWZpbGU6SGFyYm9yLmFwcC50YXIuZ3oJdmVyc2lvbjowLjguMApSWkQ0cU9aTFk3NGpkam5Rd3pDSjM4OUZXcWpTQktSQ2NXem9SYUFBR3hJdDA4WWlOWlRqYXdnd2NHWk5EMWVnSUJmbDhjcDhuM3JRWUhua2NuRmJDUT09Cg==",
+      "url": "https://github.com/edisonaugusthy/MacUtilityKit-Releases/releases/download/harbor-v0.8.0/Harbor_0.8.0_aarch64.app.tar.gz"
+    }
+  }
+}
