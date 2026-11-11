@@ -1,11 +1,11 @@
 {
-  "version": "0.1.2",
-  "notes": "- Secure license keys no longer need an environment label. Existing keys still work.\n- The price stays $7 per month, with local currency and payment methods handled at checkout.",
-  "pub_date": "2026-11-08T22:25:58Z",
+  "version": "0.1.3",
+  "notes": "",
+  "pub_date": "2026-11-11T00:07:55.672Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTRGxnYlN5VXlBM3VtZ1R2MjlyWTY1eDFON2hvSDVuQkoxZGlYa0hpbXo5OUNqaXltWU9XNk9ncURQcnFCcFo2V1Q2UWlDNEt4dFA3aGhYUmtpci9OdG5KMnQwYnk2QndvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTc2NzMzCWZpbGU6SW1hZ2UgTWFuYWdlci5hcHAudGFyLmd6CXZlcnNpb246MC4xLjIKTDhTUGxEQ1ozQmVibEZoL2tnVUpoUEVlcEh4bGJrS1p3ZUFjOENScTh4SGFIMFZnVVNjZ0ZtMUhjWWRUN0hwaEVUaU8yMzFzak9NdkJzUEFZRzFKQnc9PQo=",
-      "url": "https://github.com/edisonaugusthy/MacUtilityKit-Releases/releases/download/image-manager-v0.1.2/Image-Manager_0.1.2_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTRGxnYlN5VXlBM3BwaUZDcW16UUZaU3RLZWJiSTh5MkJncW9DUkFyTkk2K0Nma0M0eVpBSzE4Vk1OYTVqNnRHSkNzamg2NE5wL2owM2gyTXF3SlZ4WTJudkJ4dlZuWEFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MzU1NDE1CWZpbGU6SW1hZ2UtTWFuYWdlcl8wLjEuM19hYXJjaDY0LmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuMwpsb2R5eHI1RW1oSnNFUThPd2VDUmhXbW5uRkpOY0Q5T1I0allQOW1HMXpSdlBnamJHYjFwcWZnNGdTTVFoREhkMC8vcWZGQ25SYWZtZXdSdHQ1ZVhDUT09Cg==",
+      "url": "https://github.com/edisonaugusthy/MacUtilityKit-Releases/releases/download/image-manager-v0.1.3/Image-Manager_0.1.3_aarch64.app.tar.gz"
     }
   }
 }
