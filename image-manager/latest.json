@@ -1,11 +1,11 @@
 {
-  "version": "0.1.5",
+  "version": "0.1.6",
   "notes": "",
-  "pub_date": "2026-11-11T23:17:41.089Z",
+  "pub_date": "2026-11-12T00:25:51.597Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTRGxnYlN5VXlBM254dHFiY1hwcmxxVFpWVjk0UDBDZWtZOVFlbHVha3h2OWdNaGsrMGZPUUJ6b2RpdmdQRVlUNnpaZ3VSY0ZCbUxxY0FnV094N0hCbEZIZ3lSd0FqVHc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDM4OTA3CWZpbGU6SW1hZ2UtTWFuYWdlcl8wLjEuNV9hYXJjaDY0LmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuNQpuT3lmZ0V1NGFDYlp6RSt3WDFpYUt5ZG1ZVDVoc3RydVhFeWprdnRvS2lkY1pGRkgwVEZLNEpmeVkyejI4aTRXRUpsekY1STdvWlRaWldwdjZxbUhBQT09Cg==",
-      "url": "https://github.com/edisonaugusthy/MacUtilityKit-Releases/releases/download/image-manager-v0.1.5/Image-Manager_0.1.5_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTRGxnYlN5VXlBM3NEU1d3Vis4a1NOaERLWDZLbUNFRXkzQ25QYjN0b3VGdEdYU1RSYnpDRzNXdnNobkhsanhLMVdkcmhsbDlNTEd2bWt0WWdOMk5LbFJCVSs5YXZ1REF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NDQzMDA1CWZpbGU6SW1hZ2UtTWFuYWdlcl8wLjEuNl9hYXJjaDY0LmFwcC50YXIuZ3oJdmVyc2lvbjowLjEuNgp0ZzB3WnFlRHpIK0htN1RGWjI5RUU0aWpjQXdiQjFONkJqMm1qUDJZVjNHWGJWR1BYT3lab3dpa1IwK3F6N09oNEZHOUNwdjEzVWN4cHQwU2x4Uy9DUT09Cg==",
+      "url": "https://github.com/edisonaugusthy/MacUtilityKit-Releases/releases/download/image-manager-v0.1.6/Image-Manager_0.1.6_aarch64.app.tar.gz"
     }
   }
 }
