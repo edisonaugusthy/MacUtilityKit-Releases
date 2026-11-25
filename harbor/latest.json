@@ -1,11 +1,11 @@
 {
-  "version": "0.8.1",
-  "notes": "- Secure license keys no longer need an environment label. Existing keys still work.\n- The price stays $7 per month, with local currency and payment methods handled at checkout.",
-  "pub_date": "2026-11-08T22:21:16Z",
+  "version": "0.8.2",
+  "notes": "",
+  "pub_date": "2026-11-23T21:29:25.304Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUOTNlRXEwRUFKczY4ZFMzclNJVEFVU3FHMHBaL2hzcUFvcWdyWWRQTTZ4cW1QQUZiaGNLS1VMQ2Mxam5ybEJoWFN3L3hVZEh2WFo4OUY4bHJwRlQ4Z3RjN3M5NS9zYUE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTc2NDU5CWZpbGU6SGFyYm9yLmFwcC50YXIuZ3oJdmVyc2lvbjowLjguMQo0TzdmZnNNeHpOMDFLeWVrQWR0MUZUVE1JYUgvNEc4UDIzcXhHVk1lblQrRWhvbzF1aXNjWk9QSmk3TncrMkN3YjhTMG9LTStFMTM2OXpvQTlxTEZCZz09Cg==",
-      "url": "https://github.com/edisonaugusthy/MacUtilityKit-Releases/releases/download/harbor-v0.8.1/Harbor_0.8.1_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUOTNlRXEwRUFKczFxZWFGS3FRNnFWTXcwb3RSUkw5OFAwd3kzQ0pmQzRDMmdveXZ2YUlQMWVXdU5peDNpVlViekFOekZtQ0pJbHN1SGY1Q0x2S3ZCUTRpWEdya2NUK1FNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDY5MzM2CWZpbGU6SGFyYm9yXzAuOC4yX2FhcmNoNjQuYXBwLnRhci5negl2ZXJzaW9uOjAuOC4yCjRxeDdtQnhncWJadDhiOFo5UkJLN3ZROFVOZjFzeVZaWm5YenRLYkpBYUUvdUZLUDEwcXhmdVAvT2c2MmwrZEY5a1VFclNSU1gza2ZjOGptOWNBOUJ3PT0K",
+      "url": "https://github.com/edisonaugusthy/MacUtilityKit-Releases/releases/download/harbor-v0.8.2/Harbor_0.8.2_aarch64.app.tar.gz"
     }
   }
 }
