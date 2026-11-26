@@ -1,11 +1,11 @@
 {
-  "version": "0.8.2",
+  "version": "0.8.3",
   "notes": "",
-  "pub_date": "2026-11-23T21:29:25.304Z",
+  "pub_date": "2026-11-26T12:55:05.770Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUOTNlRXEwRUFKczFxZWFGS3FRNnFWTXcwb3RSUkw5OFAwd3kzQ0pmQzRDMmdveXZ2YUlQMWVXdU5peDNpVlViekFOekZtQ0pJbHN1SGY1Q0x2S3ZCUTRpWEdya2NUK1FNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1NDY5MzM2CWZpbGU6SGFyYm9yXzAuOC4yX2FhcmNoNjQuYXBwLnRhci5negl2ZXJzaW9uOjAuOC4yCjRxeDdtQnhncWJadDhiOFo5UkJLN3ZROFVOZjFzeVZaWm5YenRLYkpBYUUvdUZLUDEwcXhmdVAvT2c2MmwrZEY5a1VFclNSU1gza2ZjOGptOWNBOUJ3PT0K",
-      "url": "https://github.com/edisonaugusthy/MacUtilityKit-Releases/releases/download/harbor-v0.8.2/Harbor_0.8.2_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUOTNlRXEwRUFKc3pHZ3RiM3RrUXREMnU0eng0WjF0WFJMWGc5OHRlYURHb2FMMm9BWllKclZ2Z0NZZUVyaVVIVlhmZjZTWXJkdnpzTWJmSnk4SXV6TkNpTGtkV2hBeFFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Njk3Njg0CWZpbGU6SGFyYm9yXzAuOC4zX2FhcmNoNjQuYXBwLnRhci5negl2ZXJzaW9uOjAuOC4zCnpZM1JtazZxUy9XYVBibHJPWk5DRDRyVFBKcXVVSG5RRFJGRUtIREJ2amlkVno5dXJDSkZxRytMS2prSUlYL0VSL0c4MkNWQWIxLzM5czF3L0ZwZkN3PT0K",
+      "url": "https://github.com/edisonaugusthy/MacUtilityKit-Releases/releases/download/harbor-v0.8.3/Harbor_0.8.3_aarch64.app.tar.gz"
     }
   }
 }
